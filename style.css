@@ -1,0 +1,13 @@
+section{
+    display: flex;
+    justify-content: space-around;
+}
+ul li{
+    color: blue;
+    font-size: x-large;
+}
+button{
+    padding: 20px;
+ 
+}
+
